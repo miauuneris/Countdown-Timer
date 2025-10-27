@@ -21,7 +21,7 @@
 
 ### 🎬 在线演示
 
-**[点击访问 → https://mlauuneris.github.io/Timer-app/](https://mlauuneris.github.io/Timer-app/)**
+**[点击访问 → https://mlauuneris.github.io/Countdown-Timer/](https://mlauuneris.github.io/Countdown-Timer/)**
 
 ### 📸 应用截图
 
@@ -37,7 +37,7 @@
 ### 🚀 快速开始
 
 #### 在线使用
-直接访问 [在线演示](https://mlauuneris.github.io/Timer-app/)
+直接访问 [在线演示](https://mlauuneris.github.io/Countdown-Timer/)
 
 #### 本地运行
 ```bash  
